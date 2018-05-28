@@ -1,0 +1,1 @@
+To start the app, simply run the nodejs project by "node main.js" command
